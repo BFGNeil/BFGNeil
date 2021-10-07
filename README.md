@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BFGNeil
 - 👀 I’m interested in Crypto, Distrubuted systems and data 
-- 🌱 I’m currently learning Python and distrubuted block chain systems
-- 💞️ I’m looking to collaborate on data management systems
+- 🌱 I’m currently learning Python, React and blockchain
+- 💞️ I’m looking to collaborate on blockchain & big data
 - 📫 How to reach me bfgneil.io
 
 <!---
